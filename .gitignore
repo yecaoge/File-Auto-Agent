@@ -1,2 +1,2 @@
-.idea/
-__pycache__/
+echo ".idea/" >> .gitignore
+echo "__pycache__/" >> .gitignore
